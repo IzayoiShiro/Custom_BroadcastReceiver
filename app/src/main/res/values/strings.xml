@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom_BroadcastReceiver</string>
+    <string name="receiver">电台发送自定义广播</string>
+</resources>
